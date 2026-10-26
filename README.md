@@ -1,9 +1,9 @@
-
+<!-- 
 <html><body><h1 style="font-size:50px;color:blue;">WEZVA TECHNOLOGIES (ADAM) | <font style="color:red;"> www.wezva.com | <font style="color:green;"> +91-9739110917 </h1>
 <h1> Subscribe to our youtube channel: 
 <a href="https://www.youtube.com/c/DevOpsLearnEasy">https://www.youtube.com/c/DevOpsLearnEasy</a> </h1>
 </body></html>
-
+-->
 # Shell scripting project to create users
 
 Managing users on a Linux system can be a daunting task, especially in environments where you need to create multiple users, assign them to specific groups, and ensure they have secure passwords. 

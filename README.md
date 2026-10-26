@@ -3,6 +3,8 @@
 <h1> Subscribe to our youtube channel: 
 <a href="https://www.youtube.com/c/DevOpsLearnEasy">https://www.youtube.com/c/DevOpsLearnEasy</a> </h1>
 </body></html>
+
+https://www.youtube.com/watch?v=DZIb0lXJ2Mk
 -->
 # Shell scripting project to create users
 
